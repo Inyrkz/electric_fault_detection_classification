@@ -1,4 +1,6 @@
 # electric_fault_detection_classification
+Read full documentation [here](https://docs.google.com/document/d/1eD4gYp8THqsm_iwLJK5Y8IjnLsoGGjG3uOxSOY7K1wM/edit?usp=sharing).
+
 Training machine learning models to detect and classify fault in a three-phase electrical system.
 
 This project focuses on the detection and classification of electric faults using machine learning techniques. The project utilizes electric fault detection and classification datasets obtained from the Kaggle repository. The dataset consists of 8 attributes, including line currents (Ia, Ib, Ic), line voltages (Va, Vb, Vc), and outputs indicating the presence or absence of a fault.
